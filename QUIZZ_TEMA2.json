@@ -1,0 +1,692 @@
+[
+  {
+    "question": "1. ¿Quién es el profesor del curso de Servicios Urbanos?",
+    "options": [
+      "1. Juan Miguel Vega Naranjo",
+      "2. Pedro García Martínez",
+      "3. María López",
+      "4. Antonio Fernández"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "2. ¿Cuál es el grado asociado con el curso de Servicios Urbanos?",
+    "options": [
+      "1. Ingeniería Civil",
+      "2. Arquitectura",
+      "3. Ingeniería Mecánica",
+      "4. Ingeniería Industrial"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "3. ¿Qué fase es posterior a la colocación de bordillo en urbanización?",
+    "options": [
+      "1. Movimiento de tierras",
+      "2. Implantación de servicios",
+      "3. Control de calidad",
+      "4. Pavimentación"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "4. ¿Qué tipo de servicios deben ser implantados por debajo de aceras o áreas peatonales?",
+    "options": [
+      "1. Alumbrado público",
+      "2. Abastecimiento de agua",
+      "3. Gas y electricidad",
+      "4. Todas las anteriores"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "5. ¿Cuál es la distancia mínima entre conducciones de gas y eléctricas según la normativa de Valencia?",
+    "options": [
+      "1. 0,10 metros",
+      "2. 0,20 metros",
+      "3. 0,30 metros",
+      "4. 0,50 metros"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "6. ¿Qué red debe estar a una cota superior a la de cualquier tubería de alcantarillado?",
+    "options": [
+      "1. Red de gas",
+      "2. Red de agua potable",
+      "3. Red eléctrica",
+      "4. Red de telefonía"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "7. Según la normativa, a qué distancia mínima debe estar la canalización eléctrica más baja de las conducciones de agua?",
+    "options": [
+      "1. 0,10 metros",
+      "2. 0,20 metros",
+      "3. 0,30 metros",
+      "4. 0,50 metros"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "8. ¿Qué se utiliza para proteger las redes de agua y gas canalizado?",
+    "options": [
+      "1. Hormigón",
+      "2. Arena de asiento",
+      "3. Plástico",
+      "4. Metal"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "9. ¿Qué procedimiento se propone para evitar que las raíces de los árboles afecten a las conducciones?",
+    "options": [
+      "1. Construir profundidades adecuadas",
+      "2. Utilizar materiales metálicos",
+      "3. Disponer elementos de protección",
+      "4. No plantar árboles cerca"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "10. ¿Cuál es la principal ventaja de la disposición cercana de las conducciones?",
+    "options": [
+      "1. Menor coste",
+      "2. Mayor facilidad de excavación",
+      "3. Menos tráfico",
+      "4. Mejor estética"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "11. ¿Qué tipo de pruebas se realizan sobre tuberías de abastecimiento?",
+    "options": [
+      "1. Pruebas de compresión",
+      "2. Pruebas de presión interior",
+      "3. Pruebas de adherencia",
+      "4. Pruebas de resistencia a la corrosión"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "12. ¿Qué se debe disponer para verificar la situación de todos los servicios antes de iniciar la construcción?",
+    "options": [
+      "1. Planos constructivos",
+      "2. Presupuestos",
+      "3. Autorizaciones",
+      "4. Contratos"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "13. ¿Cuál es el Espacio Mínimo que se debe mantener libre de servicios junto a la fachada hasta que se construyan los edificios?",
+    "options": ["1. 50 cms", "2. 30 cms", "3. 20 cms", "4. 10 cms"],
+    "correct_answer": "3"
+  },
+  {
+    "question": "14. ¿Qué tipo de arquetas prefiere utilizar en urbanizaciones extensas?",
+    "options": [
+      "1. Arquetas de plástico",
+      "2. Arquetas continuas",
+      "3. Arquetas de hormigón",
+      "4. Arquetas de metal"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "15. ¿Qué ensayos de calidad se requieren para el hormigón de recubrimiento?",
+    "options": [
+      "1. Ensayos de resistencia a compresión",
+      "2. Ensayos de densidad",
+      "3. Ensayos de elasticidad",
+      "4. Todos los anteriores"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "16. ¿Cuál es la técnica recomendada para la compactación de zanjas?",
+    "options": [
+      "1. Compactación a mano",
+      "2. Compactación mecánica",
+      "3. Compactación química",
+      "4. Compactación por gravedad"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "17. Según la normativa, ¿qué se debe averiguar sobre suministro de materiales?",
+    "options": [
+      "1. Costos",
+      "2. Disponibilidad",
+      "3. Orden de entrega",
+      "4. Verificar suministradores"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "18. ¿Qué es lo que se recomienda hacer después de colocar las tuberías de abastecimiento?",
+    "options": [
+      "1. Compactar la zanja",
+      "2. Revisar los planos",
+      "3. Realizar pruebas de presión",
+      "4. Pavimentar la acera"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "19. ¿Cómo se deben colocar tuberías de gas y cables de media tensión según normativa?",
+    "options": [
+      "1. Sin señalización",
+      "2. Con aviso previo",
+      "3. Contrario a su normativa",
+      "4. Bajo señalización o testigo"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "20. ¿Cuál es la distancia mínima recomendada entre las conducciones de agua y de gas?",
+    "options": [
+      "1. 0,10 metros",
+      "2. 0,20 metros",
+      "3. 0,30 metros",
+      "4. 0,50 metros"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "21. ¿Qué se considera un aspecto de control de calidad de materiales de relleno de zanjas?",
+    "options": [
+      "1. Ensayo de compresión",
+      "2. Ensayo de densidad",
+      "3. Prueba de presión",
+      "4. Prueba de estanqueidad"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "22. ¿Qué elementos deben existir para diferentes redes en zonas verdes?",
+    "options": [
+      "1. Bocas de riego",
+      "2. Electrodomésticos",
+      "3. Cuartos de servicio",
+      "4. Establecimientos comerciales"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "23. ¿Qué medidas de seguridad deben seguirse durante la colocación de hormigón?",
+    "options": [
+      "1. Usar hormigón de alta resistencia",
+      "2. Comprobar nivelado de la zanja",
+      "3. Colocar una malla de refuerzo",
+      "4. Utilizar separadores para las tuberías"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "24. ¿Qué práctica está recomendada para el relleno de zanjas?",
+    "options": [
+      "1. Utilizar cualquier tipo de suelo",
+      "2. El relleno debe ser de suelos tolerables",
+      "3. Usar solo suelos de excavación",
+      "4. Homogeneizar los materiales"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "25. ¿Qué se debe tener en cuenta para el control de la construcción de zanjas?",
+    "options": [
+      "1. Estabilidad de la zanja",
+      "2. Condiciones climáticas",
+      "3. Normativa de seguridad",
+      "4. Las tres anteriores"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "26. Para la red de gas, ¿cuál es un aspecto crítico a comprobar antes de la pavimentación de aceras?",
+    "options": [
+      "1. Que las tuberías estén enterradas",
+      "2. Las pruebas de presión",
+      "3. Que se utilicen materiales metálicos",
+      "4. Que las válvulas estén operativas"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "27. ¿Qué se debe evitar en el momento de la colocación de tubos para prevenir su deformación?",
+    "options": [
+      "1. Colocar muy cerca de otros tubos",
+      "2. Utilizar hormigón de consistencia fluida",
+      "3. Pasar cables en exceso",
+      "4. No tener suficiente espacio"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "28. ¿Cuándo son necesarios nuevos ensayos de presión y estanqueidad?",
+    "options": [
+      "1. Cuando se cambia de operador",
+      "2. Después de la colocación de las tuberías",
+      "3. Antes del relleno de zanjas",
+      "4. Después de la compactación de zanjas"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "29. ¿Qué deben ceder las redes de servicios al finalizar su construcción?",
+    "options": [
+      "1. A las autoridades locales",
+      "2. A los propietarios de los terrenos",
+      "3. A las compañías concesionarias",
+      "4. A los contratistas"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "30. Según la normativa, ¿quién es responsable de las pruebas de mandrilado de las tuberías de telefonía?",
+    "options": [
+      "1. Los constructores",
+      "2. La compañía telefonica",
+      "3. Las autoridades locales",
+      "4. Un inspector de calidad"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "31. ¿Cuál es el propósito de las galerías de servicios?",
+    "options": [
+      "1. Reducir costos de construcción",
+      "2. Centralizar la disposición de servicios",
+      "3. Mejorar la estética de la ciudad",
+      "4. Facilitar el mantenimiento de servicios"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "32. ¿Qué se debe abrir antes de realizar zanjas para asegurar la ejecución de servicios?",
+    "options": [
+      "1. Un mapa de servicios existente",
+      "2. Un diagrama de flujo",
+      "3. Un manual de procedimientos",
+      "4. Una legislación urbana"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "33. ¿Cuánto se recomienda de distancia mínima entre cualquier canalización y el arbolado?",
+    "options": ["1. 1 metro", "2. 2 metros", "3. 0,5 metros", "4. 0,2 metros"],
+    "correct_answer": "1"
+  },
+  {
+    "question": "34. ¿Qué medidas se deben seguir para garantizar el funcionamiento de los sistemas de",
+    "options": [
+      "protección en redes eléctricas?",
+      "1. Revisiones mensuales",
+      "2. Calibración pormenorizada",
+      "3. Pruebas iniciales sólo"
+    ],
+    "correct_answer": "4. Inspecciones trimestrales"
+  },
+  {
+    "question": "2",
+    "options": [
+      "35. En una urbanización, el orden de ejecución de las implantaciones de servicios debe ser...",
+      "1. Al azar para mayor flexibilidad",
+      "2. De abajo a arriba",
+      "3. De arriba a abajo"
+    ],
+    "correct_answer": "4. De lado a lado"
+  },
+  {
+    "question": "2",
+    "options": [
+      "36. Según la normativa, ¿quién está generalmente encargado de la obra civil en la instalación de la red de gas?",
+      "1. Las constructoras",
+      "2. Las compañías concesionarias",
+      "3. El gobierno local"
+    ],
+    "correct_answer": "4. Los arquitectos"
+  },
+  {
+    "question": "2",
+    "options": [
+      "37. ¿Qué aspecto es esencial para la calidad de la mezcla de hormigón?",
+      "1. El tamaño de los áridos",
+      "2. La proporción de agua",
+      "3. Ambas opciones son correctas"
+    ],
+    "correct_answer": "4. El uso de arena fina"
+  },
+  {
+    "question": "3",
+    "options": [
+      "38. ¿Qué se busca con las pruebas de estanqueidad en tuberías de saneamiento?",
+      "1. Verificar que no haya fugas",
+      "2. Asegurar la resistencia mecánica",
+      "3. Comprobar el peso del conjunto"
+    ],
+    "correct_answer": "4. Reducir costos de materiales"
+  },
+  {
+    "question": "1",
+    "options": [
+      "39. ¿Qué técnica de compactación se prefiere en zanjas?",
+      "1. Compactación en seco",
+      "2. Compactación en húmedo",
+      "3. Compactación a mano"
+    ],
+    "correct_answer": "4. Compactación por placas vibratorias"
+  },
+  {
+    "question": "4",
+    "options": [
+      "40. ¿Cómo se caracteriza el hormigón utilizado en la construcción de pavimentos?",
+      "1. Fluido y de alta resistencia",
+      "2. Pesado y frágil",
+      "3. Ligero y adaptable"
+    ],
+    "correct_answer": "4. Fácilmente cortable"
+  },
+  {
+    "question": "1",
+    "options": [
+      "41. ¿Qué se debe hacer antes de conectar acometidas de agua y gas?",
+      "1. Realizar pruebas de presión",
+      "2. Construir una zona de almacenamiento",
+      "3. Asegurar el suministro de materiales"
+    ],
+    "correct_answer": "4. Completar las obras de pavimentación"
+  },
+  {
+    "question": "1",
+    "options": [
+      "42. ¿Qué método se utiliza para la comprobación de la estabilidad de los servicios",
+      "instalados?",
+      "1. Inspección visual",
+      "2. Pruebas de carga"
+    ],
+    "correct_answer": "3. Control de temperatura"
+  },
+  {
+    "question": "4. Monitoreo constante",
+    "options": [
+      "2",
+      "43. ¿Cuál es la práctica recomendada para la instalación de la red de telefonía?",
+      "1. Colocarlas superficialmente",
+      "2. Dejar los registros totalmente terminados"
+    ],
+    "correct_answer": "3. Utilizar sólo cables de 1 mm"
+  },
+  {
+    "question": "4. Conector inalámbrico",
+    "options": [
+      "2",
+      "44. Las galerías de servicios buscan...",
+      "1. Dispersar servicios",
+      "2. Centralizar servicios"
+    ],
+    "correct_answer": "3. Eliminarlas por completo"
+  },
+  {
+    "question": "4. Minimizar el mantenimiento",
+    "options": [
+      "2",
+      "45. ¿Qué se requiere para asegurar que se eviten deformaciones en las tuberías durante su colocación?",
+      "1. Colocación adecuada y uso de separadores",
+      "2. Vigilancia constante"
+    ],
+    "correct_answer": "3. Uso de materiales menos pesados"
+  },
+  {
+    "question": "4. Múltiples capas de selladores",
+    "options": [
+      "1",
+      "46. ¿Qué tipo de trabajos se debe realizar en el replantéo de los servicios?",
+      "1. Colocar servicios antiguos",
+      "2. Situar todos los elementos en superficie"
+    ],
+    "correct_answer": "3. Comprobar los registros"
+  },
+  {
+    "question": "4. Planificar la reubicación",
+    "options": [
+      "2",
+      "47. ¿Qué se deberá realizar para asegurar que todas las acometidas de cada parcela estén conectadas?",
+      "1. Definir un plano de ubicación",
+      "2. Comprobar la funcionalidad de las redes"
+    ],
+    "correct_answer": "3. Verificar las conexiones previas"
+  },
+  {
+    "question": "4. Obtener permisos de las autoridades",
+    "options": [
+      "2",
+      "48. ¿Qué se utiliza para revisar la calidad del hormigón recubriendo las tuberías?",
+      "1. Pruebas de consolidación",
+      "2. Ensayos de resistencia a compresión"
+    ],
+    "correct_answer": "3. Estudios de duración"
+  },
+  {
+    "question": "4. Compresión por temperatura",
+    "options": [
+      "2",
+      "49. ¿Qué aspecto es crucial en el control de la ejecución de zanjas para evitar problemas futuros?",
+      "1. Análisis textural",
+      "2. Control de profundidad y ancho"
+    ],
+    "correct_answer": "3. Comparación con el plano original"
+  },
+  {
+    "question": "4. Documentación fotográfica",
+    "options": [
+      "2",
+      "50. ¿Qué se debe hacer inmediatamente después del relleno de zanjas?",
+      "1. Inspección visual",
+      "2. Pruebas de presión"
+    ],
+    "correct_answer": "3. Colocación de la pavimentación"
+  },
+  {
+    "question": "4. Sellado de fugas",
+    "options": [
+      "2",
+      "51. ¿Qué es necesario comprobar en las tuberías de gas antes de su uso?",
+      "1. Que estén limpias",
+      "2. Las pruebas de presión efectuadas"
+    ],
+    "correct_answer": "3. Las conexiones previas"
+  },
+  {
+    "question": "4. Todo lo anterior",
+    "options": [
+      "4",
+      "52. ¿Cuál es el propósito de realizar un ensayo de compresión del hormigón?",
+      "1. Verificar su durabilidad",
+      "2. Medir su resistencia"
+    ],
+    "correct_answer": "3. Comprobar su textura"
+  },
+  {
+    "question": "4. Comprobar su peso",
+    "options": [
+      "2",
+      "53. ¿Qué medida se debe seguir para garantizar el aislamiento en la red eléctrica?",
+      "1. Comprobar la resistencia a la tierra",
+      "2. Colocar elementos decorativos"
+    ],
+    "correct_answer": "3. Usar cables inseparables"
+  },
+  {
+    "question": "4. Instalar tomas de seguridad",
+    "options": [
+      "1",
+      "54. ¿Qué se debe hacer en la supervisión de la red de baja tensión?",
+      "1. Establecer contacto continuo",
+      "2. Comprobar su funcionalidad y normativa"
+    ],
+    "correct_answer": "3. Medir la resistencia a la tierra"
+  },
+  {
+    "question": "4. Todas las anteriores",
+    "options": [
+      "4",
+      "55. ¿En qué consiste la normativa para la red de agua potable?",
+      "1. Comprobar la presión constante",
+      "2. Controlar el pH del agua"
+    ],
+    "correct_answer": "3. Verificar el tipo de material de las tuberías"
+  },
+  {
+    "question": "4. Todo lo anterior",
+    "options": [
+      "4",
+      "56. ¿Quienes examinaban la calidad de los materiales en construcción?",
+      "1. Inspectores de obra",
+      "2. Compañías de servicios"
+    ],
+    "correct_answer": "3. Funcionarios del gobierno"
+  },
+  {
+    "question": "4. Los propietarios",
+    "options": [
+      "1",
+      "57. ¿Cómo se garantiza que la red hidráulica instalada no tenga fugas?",
+      "1. Con pruebas de estanqueidad y mantenimiento",
+      "2. Con monitoreos continuos"
+    ],
+    "correct_answer": "3. Con aplicaciones de selladores"
+  },
+  {
+    "question": "4. Con mapeos previos",
+    "options": [
+      "1",
+      "58. ¿Qué aspecto se revisa en las conexiones de las redes de gas?",
+      "1. Leva de segurança",
+      "2. Integración de elementos"
+    ],
+    "correct_answer": "3. Pruebas de presión en condiciones régulares"
+  },
+  {
+    "question": "4. Coherencia entre equipos",
+    "options": [
+      "3",
+      "59. Según la normativa, ¿quién determina el tipo de instalaciones generales de los edificios?",
+      "1. Los arquitectos",
+      "2. Las compañías de servicios"
+    ],
+    "correct_answer": "3. Los ingenieros civiles"
+  },
+  {
+    "question": "4. Las autoridades locales",
+    "options": [
+      "3",
+      "60. ¿Qué se considera una buena práctica al planificar la disposición de las canalizaciones de servicios?",
+      "1. Alinear todas las conducciones",
+      "2. Usar diferentes niveles de excavación"
+    ],
+    "correct_answer": "3. Minimizar el uso de protección"
+  },
+  {
+    "question": "4. Establecer un solo sentido para las tuberías",
+    "options": [
+      "1",
+      "61. La distancia mínima recomendada entre conducciones de agua y electricidad es:",
+      "1. 0,10 metros",
+      "2. 0,20 metros"
+    ],
+    "correct_answer": "3. 0,25 metros"
+  },
+  {
+    "question": "4. 0,30 metros",
+    "options": [
+      "2",
+      "62. ¿Qué se debe verificar en los registros y arquetas de los diferentes servicios?",
+      "1. Accesibilidad y estado",
+      "2. Composición de materiales"
+    ],
+    "correct_answer": "3. Fabricación y montajes"
+  },
+  {
+    "question": "4. Tiempo de ejecución",
+    "options": [
+      "1",
+      "63. ¿Qué se debe hacer para asegurar la protección de las instalaciones eléctricas?",
+      "1. Disposición de separadores en zonas de servicios",
+      "2. Realizar pruebas de tensión"
+    ],
+    "correct_answer": "3. Combinación de elementos rescatables"
+  },
+  {
+    "question": "4. Utilización de cables vulcanizados",
+    "options": [
+      "2",
+      "64. ¿Cuál es el propósito de los planes constructivos en el revestimiento de servicios urbanos?",
+      "1. Visualización de la obra",
+      "2. Control de calidad"
+    ],
+    "correct_answer": "3. Optimización de recursos"
+  },
+  {
+    "question": "4. Todo lo anterior",
+    "options": [
+      "4",
+      "65. ¿Por qué es crucial la instalación de Stop de agua en puntos de acceso?",
+      "1. Para controlar el flujo",
+      "2. Para evitar fugas"
+    ],
+    "correct_answer": "3. Para mejorar la eficiencia del flujo"
+  },
+  {
+    "question": "4. Para facilitar el funcionamiento de la red",
+    "options": [
+      "2",
+      "66. ¿Qué tipo de materiales se requiere comprobar en la instalación eléctrica?",
+      "1. Tubos y arquetas",
+      "2. Todos los materiales del sistema"
+    ],
+    "correct_answer": "3. Solamente cables"
+  },
+  {
+    "question": "4. Solo componentes eléctricos",
+    "options": [
+      "2",
+      "67. ¿Qué es lo necesario implementar en zonas urbanizadas para facilitar el servicio de extinción de incendios?",
+      "1. Hidranes",
+      "2. Señalización de salidas"
+    ],
+    "correct_answer": "3. Alarmas de emergencia"
+  },
+  {
+    "question": "4. Todo lo anterior",
+    "options": [
+      "1",
+      "68. ¿Cuál es la distancia mínima que debe mantenerse entre las acometidas de agua y gas?",
+      "1. 0,10 metros",
+      "2. 0,20 metros"
+    ],
+    "correct_answer": "3. 0,30 metros"
+  },
+  {
+    "question": "4. 0,50 metros",
+    "options": [
+      "3",
+      "69. ¿Qué se menciona como un método de compactación adecuado para las zanjas?",
+      "1. Compactación en frío",
+      "2. Compactación manual"
+    ],
+    "correct_answer": "3. Compactación vibratoria"
+  },
+  {
+    "question": "4. Compactación en seco",
+    "options": [
+      "3",
+      "70. ¿Qué se usa para realizar la prueba de resistencia a compresión del hormigón?",
+      "1. Método de estandarización",
+      "2. Ensayos de laboratorio"
+    ],
+    "correct_answer": "3. Pruebas en situ"
+  }
+]

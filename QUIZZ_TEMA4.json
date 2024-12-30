@@ -1,0 +1,467 @@
+[
+  {
+    "question": "1. ¿Cuál es el objetivo principal de la red de saneamiento?",
+    "options": [
+      "1. Recolectar y transportar aguas negras",
+      "2. Recolectar y transportar aguas pluviales",
+      "3. Recolectar y transportar aguas residuales",
+      "4. Reparar los daños en la infraestructura"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "2. ¿Qué tipo de red de saneamiento utiliza una única canalización para aguas residuales y pluviales?",
+    "options": [
+      "1. Red separativa",
+      "2. Red unitaria",
+      "3. Red híbrida",
+      "4. Red de tratamiento"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "3. ¿Qué ventaja tiene el sistema unitaria de saneamiento?",
+    "options": [
+      "1. Menores costos de instalación",
+      "2. Menos mantenimiento",
+      "3. Menor consumo energético",
+      "4. Mayor capacidad de tratamiento"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "4. ¿Cuál es un inconveniente de las redes unitarias de saneamiento?",
+    "options": [
+      "1. Costos de energía reducidos",
+      "2. Gran variación de caudales",
+      "3. Menor capacidad de manejo de aguas pluviales",
+      "4. Bajo riesgo de sedimentación"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "5. ¿Cómo se clasifican las redes de saneamiento según su funcionamiento hidráulico?",
+    "options": [
+      "1. Por gravedad y bajo presión",
+      "2. Por tamaño y material",
+      "3. Por costo y mantenimiento",
+      "4. Por longitud y ancho"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "6. En un sistema de saneamiento separativo, ¿qué se recoge en cada red?",
+    "options": [
+      "1. Aguas residuales y pluviales",
+      "2. Aguas residuales y aguas limpias",
+      "3. Aguas negras y aguas pluviales",
+      "4. Aguas residuales y aguas grises"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "7. ¿Cuál de las siguientes no es una desventaja del sistema separativo?",
+    "options": [
+      "1. Elevados costos de urbanización",
+      "2. Desgaste del material de las tuberías",
+      "3. Mayor mantenimiento",
+      "4. Complejidad en la construcción"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "8. ¿Cuál es una ventaja de las redes separativas?",
+    "options": [
+      "1. Requieren más espacio",
+      "2. Estaciones de depuración más pequeñas",
+      "3. Mayor energía para bombeo",
+      "4. Riesgo de sedimentación en colectores"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "9. ¿Qué se debe evitar en el diseño de la red de saneamiento?",
+    "options": [
+      "1. Adaptarse al relieve",
+      "2. Prolongar el tiempo de tránsito de aguas",
+      "3. Cambios bruscos de dirección",
+      "4. Conectar acometidas adecuadamente"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "10. En el trazado de alcantarillados, ¿qué distancia se recomienda respecto a las redes de abastecimiento de agua?",
+    "options": ["1. 1,0 m", "2. 0,5 m", "3. 2,0 m", "4. 1,5 m"],
+    "correct_answer": "1"
+  },
+  {
+    "question": "11. ¿Qué se debe controlar en las redes de saneamiento para evitar sedimentaciones?",
+    "options": [
+      "1. Velocidades inferiores a 0,5 m/s",
+      "2. Conexiones inadecuadas",
+      "3. Dimensiones excesivas",
+      "4. Presiones elevadas"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "12. ¿Cuál es el diámetro mínimo que se recomienda para las conducciones de alcantarillado?",
+    "options": [
+      "1. 300 mm",
+      "2. 400 mm",
+      "3. 500 mm",
+      "4. No hay un mínimo establecido"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "13. ¿Qué tipo de sección se suele utilizar para diámetros pequeños en colectores de saneamiento?",
+    "options": [
+      "1. Secciones rectangulares",
+      "2. Secciones cuadradas",
+      "3. Secciones elípticas",
+      "4. Secciones circulares"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "14. ¿Cuál es el material más comúnmente utilizado para tuberías de saneamiento?",
+    "options": [
+      "1. Acero inoxidable",
+      "2. Hormigón armado",
+      "3. Plástico reciclado",
+      "4. Cobre"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "15. ¿Qué tipo de colectores son más adecuados para tramos que no están preparados para presión?",
+    "options": [
+      "1. Colectores de polímero",
+      "2. Colectores de hormigón armado",
+      "3. Colectores de acero",
+      "4. Colectores de PVC"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "16. ¿Cuál de los siguientes aspectos afecta la durabilidad de las tuberías en la red de saneamiento?",
+    "options": [
+      "1. Ángulo de inclinación",
+      "2. Presión interior",
+      "3. Material del conducto",
+      "4. Todos los anteriores"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "17. ¿Cuál es el nombre del conducto subterráneo que permite evacuar aguas residuales de una finca a la alcantarilla?",
+    "options": ["1. Albañal", "2. Aliviadero", "3. Colector", "4. Desagüe"],
+    "correct_answer": "1"
+  },
+  {
+    "question": "18. ¿Qué longitud de la tubería se considera mínima para garantizar una correcta evacuación?",
+    "options": ["1. 0,5 m", "2. 1 m", "3. 2 m", "4. 1,5 m"],
+    "correct_answer": "2"
+  },
+  {
+    "question": "19. ¿Qué tratamiento se necesita para las aguas pluviales antes de su vertido a cauces naturales?",
+    "options": [
+      "1. Un tratamiento complejo",
+      "2. Un pequeño tratamiento previo",
+      "3. Ningún tratamiento",
+      "4. Tratamiento biológico"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "20. ¿Qué criterio se recomienda para la pendiente mínima de salida de aguas residuales?",
+    "options": ["1. 0.5%", "2. 1%", "3. 0.3%", "4. 1.5%"],
+    "correct_answer": "1"
+  },
+  {
+    "question": "21. ¿Qué tipo de colector es preferido por su resistencia mecánica?",
+    "options": [
+      "1. Colector de PVC",
+      "2. Colector de hormigón armado",
+      "3. Colector de polietileno",
+      "4. Colector de fundición"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "22. ¿Qué sección es comúnmente usada para tramos con menor caudal de agua?",
+    "options": [
+      "1. Section Rectangular",
+      "2. Section Circular",
+      "3. Section Ovoid",
+      "4. Section Cuadrada"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "23. En un sistema de alcantarillado, ¿qué opción representa el método más eficiente para el diseño?",
+    "options": [
+      "1. Uso de doble red de saneamiento",
+      "2. Aplicaciones de presión interior",
+      "3. Función de gravedad",
+      "4. Configuración de una red híbrida"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "24. ¿Cuál es un criterio general para la confiabilidad de los sistemas de tuberías?",
+    "options": [
+      "1. Se deben utilizar solo materiales reciclados",
+      "2. La calidad del material es esencial",
+      "3. Las tuberías deben ser enterradas a 0.5m",
+      "4. Reducción de diámetros mejora la velocidad del flujo"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "25. ¿Qué se puede hacer si las pendientes en la red de alcantarillado son inadecuadas?",
+    "options": [
+      "1. Aumentar el diámetro de las tuberías",
+      "2. Agregar pozos de resalto",
+      "3. Reducir la longitud de la red",
+      "4. Invertir el flujo hacia atrás"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "26. ¿Cuáles son las características que debes considerar al seleccionar el diámetro de un colector?",
+    "options": [
+      "1. Material y costo",
+      "2. Uso y mantenimiento",
+      "3. Caudal y gravedad",
+      "4. Longitud de la tubería"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "27. ¿Qué material es recomendado para tramos donde la presión interior es elevada?",
+    "options": [
+      "1. Hormigón armado",
+      "2. Fundición dúctil",
+      "3. Polipropileno",
+      "4. Gres"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "28. ¿Qué tipo de colector debe usarse en la red de pluviales para evitar sedimentaciones?",
+    "options": [
+      "1. Colector de hormigón armado",
+      "2. Colector de PVC",
+      "3. Colector de acero",
+      "4. Colector de fundición"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "29. Para garantizar una buena calidad del agua, ¿qué se debe controlar en el saneamiento?",
+    "options": [
+      "1. La temperatura del agua",
+      "2. El pH del agua",
+      "3. El color del agua",
+      "4. El tamaño de las tuberías"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "30. ¿Cuál es el diseño recomendado para el trazado en planta de alcantarillados?",
+    "options": [
+      "1. Curvas suaves en el trazado",
+      "2. Alineaciones rectas y alineaciones desconectadas",
+      "3. Alineaciones rectas con intercalación de pozos de registro",
+      "4. Ángulos de 90 grados en todas las esquinas"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "31. ¿Por qué es importante la coordinación en el diseño de la red general y la interior en edificios?",
+    "options": [
+      "1. Para minimizar costos",
+      "2. Para optimizar el rendimiento hidráulico",
+      "3. Para evitar la creación de sistemas pseudo-separativos",
+      "4. Para cumplir con la normativa edilicia"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "32. ¿Qué efecto tiene el pH en las tuberías y elementos de la red de saneamiento?",
+    "options": [
+      "1. No tiene efecto",
+      "2. Puede alterar los materiales",
+      "3. Mejora la durabilidad",
+      "4. Reduce el mantenimiento requerido"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "33. ¿Qué criterio mínimo se recomienda para las profundidades de las tuberías de alcantarillado?",
+    "options": [
+      "1. No debe ser menor a 0,5 m",
+      "2. Siempre al menos 1 m",
+      "3. Dependiendo del clima local",
+      "4. Puede ser superficial"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "34. ¿Qué nivel de pH se considera normal para aguas residuales urbanas?",
+    "options": ["1. 7.0", "2. 8.0", "3. 6.5", "4. 5.5"],
+    "correct_answer": "3"
+  },
+  {
+    "question": "35. ¿Cuáles son los usos comunes para las tuberías de polietileno?",
+    "options": [
+      "1. Alimentación de agua potable",
+      "2. Condiciones de baja presión",
+      "3. Evacuación de aguas residuales",
+      "4. Restricciones en alto flujo de agua"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "36. La incorporación de drenajes de cubiertas a la red debe evitarse para mantener:",
+    "options": [
+      "1. Un sistema pseudo-separativo",
+      "2. La capacidad de las plantas de tratamiento",
+      "3. Los niveles de contaminación bajos",
+      "4. Los costos de operación altos"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "37. ¿Qué función tienen las cámaras de descarga en una red de saneamiento?",
+    "options": [
+      "1. Regular la presión del agua",
+      "2. Conducir el flujo de manera eficiente",
+      "3. Contener sedimentos y desechos",
+      "4. Disminuir la velocidad del agua"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "38. ¿Qué debe hacerse si se prevén cambios significativos en el caudal de agua en un colector?",
+    "options": [
+      "1. Instalar mayores bombas",
+      "2. Aumentar el diámetro de colectores",
+      "3. Reducir la longitud",
+      "4. Construir ramales adicionales"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "39. ¿Qué tamaño de diámetro es común para los colectores que requieren acceso a limpieza?",
+    "options": ["1. Ø200", "2. Ø500", "3. Ø800", "4. Ø1800"],
+    "correct_answer": "4"
+  },
+  {
+    "question": "40. ¿Cuál es el principio hidráulico preferido en el diseño de redes de saneamiento?",
+    "options": [
+      "1. Por presión interna",
+      "2. Por gravedad",
+      "3. Combinando ambos",
+      "4. A través de bombeo constante"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "41. ¿Qué se usa para medir la caída de presión en un sistema de alcantarillado?",
+    "options": [
+      "1. Manómetros",
+      "2. Medidores de flujo",
+      "3. Termómetros",
+      "4. Medidores de pH"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "42. ¿Qué se debe evitar en el mantenimiento de las tuberías de saneamiento?",
+    "options": [
+      "1. Revisiones anuales",
+      "2. Overhaul frecuentemente",
+      "3. Depositar residuos no permitidos",
+      "4. Controlar niveles de sedimentación"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "43. ¿Por qué las dimensiones de diseño de un colector son críticas?",
+    "options": [
+      "1. Para optimizar costos",
+      "2. Para manejar mejor las velocidades a través",
+      "3. Para prevenir fugas y rupturas",
+      "4. Para cumplir con la normativa ambiental"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "44. ¿Qué aspecto se considera crucial para el diseño de una planta de tratamiento de aguas residuales?",
+    "options": [
+      "1. La ubicación geográfica",
+      "2. El tamaño del tratamiento",
+      "3. La capacidad de las conducciones",
+      "4. La calidad de agua tratada"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "45. ¿Cuál es uno de los principales retos al diseñar un sistema de saneamiento en áreas urbanas densas?",
+    "options": [
+      "1. Acceso a equipos pesados",
+      "2. Disposición y espacio para tuberías",
+      "3. Reducción de costos de construcción",
+      "4. Aislamiento de materiales"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "46. ¿Qué consideración es importante respecto a las tuberías en zonas propensas a inundaciones?",
+    "options": [
+      "1. Construcción superficial",
+      "2. Ubicación elevada",
+      "3. Instalación a nivel del suelo",
+      "4. Uso de materiales menos duraderos"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "47. ¿Cuál es una consecuencia directa de no mantener una red de saneamiento adecuadamente?",
+    "options": [
+      "1. Reducción de costos operativos",
+      "2. Fugas de agua pluvial",
+      "3. Contaminación ambiental",
+      "4. Optimización del flujo"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "48. En el mantenimiento de una red de saneamiento, ¿qué tipo de prueba se debería realizar regularmente?",
+    "options": [
+      "1. Inspección visual y análisis de residuos",
+      "2. Prueba de sonido de tuberías",
+      "3. Revisión de diagnóstico basado en ruido",
+      "4. Prueba de erosión de materiales"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "49. ¿Qué material se debe evitar en aplicaciones donde hay contacto constante con aguas agresivas?",
+    "options": ["1. Hormigón armado", "2. Plásticos", "3. Gres", "4. Hierro"],
+    "correct_answer": "4"
+  },
+  {
+    "question": "50. ¿Cuál de las siguientes opciones es una indicación de problemas en la red de saneamiento?",
+    "options": [
+      "1. Aguas que fluyen con velocidad constante",
+      "2. Aguas oscuras en el flujo",
+      "3. Presencia de escombros en la red",
+      "4. Olores mínimos en el área"
+    ],
+    "correct_answer": "3"
+  }
+]

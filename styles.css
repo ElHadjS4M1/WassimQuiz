@@ -1,0 +1,115 @@
+/* Aseguramos que el body y html ocupen toda la altura disponible */
+body,
+html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* El contenedor principal debe ocupar toda la altura disponible */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Asegura que las preguntas comiencen desde arriba */
+  align-items: center;
+  height: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  overflow: auto; /* Agregar desplazamiento si el contenido es largo */
+}
+
+/* Formulario de preguntas, ajustado para centrar y permitir desplazamiento */
+#quizForm {
+  width: 100%;
+  max-width: 800px; /* Limitar el tamaño máximo del formulario */
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px; /* Espacio entre preguntas */
+  overflow-y: auto; /* Permite desplazamiento dentro del formulario si hay muchas preguntas */
+  max-height: 80vh; /* Limita la altura del formulario al 80% de la ventana */
+}
+
+/* Cada pregunta */
+.question {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para las opciones */
+.question label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+/* Espaciado entre las opciones */
+.question input[type="radio"] {
+  margin-right: 10px;
+}
+
+/* Botón de envío */
+#submitButton {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#submitButton:hover {
+  background-color: #0056b3;
+}
+
+/* Botones superiores en fila horizontal */
+.top-buttons {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 10px;
+  margin: 20px 0;
+  padding: 10px;
+  background-color: #f4f4f4;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.top-buttons button {
+  flex: 1;
+  padding: 10px 15px;
+  font-size: 14px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  transition: background-color 0.3s ease;
+  text-align: center;
+}
+
+#tema2 {
+  background-color: rgb(33, 111, 156);
+}
+
+#tema2:hover {
+  background-color: rgb(27, 90, 126);
+}
+
+#tema3 {
+  background-color: rgb(33, 111, 156);
+}
+
+#tema3:hover {
+  background-color: rgb(27, 90, 126);
+}
+
+#tema4 {
+  background-color: rgb(33, 111, 156);
+}
+
+#tema4:hover {
+  background-color: rgb(27, 90, 126);
+}

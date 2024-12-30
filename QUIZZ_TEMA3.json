@@ -1,0 +1,777 @@
+[
+  {
+    "question": "1. ¿Cuál es el principal fabricante europeo de fundición dúctil?",
+    "options": [
+      "1. Funditubo",
+      "2. Saint-Gobain",
+      "3. Aglomerados S.A.",
+      "4. Tubos Ferroviarios"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "2. ¿Qué tipo de recubrimiento se utiliza interiormente en las tuberías de fundición dúctil para mejorar su rugosidad?",
+    "options": [
+      "1. Pintura bituminosa",
+      "2. Recubrimiento de PVC",
+      "3. Mortero de cemento",
+      "4. Óxido de zinc"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "3. ¿Qué tipo de unión es la más extendida para las tuberías de fundición dúctil?",
+    "options": [
+      "1. Unión rígida",
+      "2. Unión flexible de enchufe",
+      "3. Unión de bridas",
+      "4. Unión mecánica de goma"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "4. ¿Cuál de los siguientes es un inconveniente de las tuberías de fundición dúctil?",
+    "options": [
+      "1. Soporte a altas presiones",
+      "2. Buena resistencia al choque",
+      "3. Mayor rugosidad interna",
+      "4. Menor peso"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "5. ¿Qué tipo de polietileno es comúnmente utilizado en el abastecimiento de aguas?",
+    "options": [
+      "1. Polietileno de baja densidad (PELD)",
+      "2. Polietileno de media densidad (PEMD)",
+      "3. Polietileno de alta densidad (PEHD)",
+      "4. Polietileno reciclado (PE)"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "6. ¿Qué técnica se utiliza para unir tuberías de polietileno de diámetro menor a 250 mm?",
+    "options": [
+      "1. Encolado",
+      "2. Soldadura por termofusión",
+      "3. Conexión por bridas",
+      "4. Ensamblaje mecánico"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "7. ¿Cuál es una ventaja del polietileno?",
+    "options": [
+      "1. Alta resistencia a la corrosión",
+      "2. No se oxida en medio húmedo",
+      "3. Mayor coste",
+      "4. Dificultad de manipulación"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "8. ¿Qué desventaja tienen las tuberías de polietileno respecto a su ubicación?",
+    "options": [
+      "1. Son ligeras",
+      "2. No pueden colocarse a la intemperie",
+      "3. Excelentes en sobrecargas",
+      "4. Son muy flexibles"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "9. ¿Qué material se utiliza para la fabricación de tuberías de PVC?",
+    "options": [
+      "1. Polipropileno",
+      "2. Polietileno",
+      "3. Cloruro de vinilo",
+      "4. Policarbonato"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "10. ¿Cuál es una ventaja de las tuberías de PVC?",
+    "options": [
+      "1. Mayor coste que el PE",
+      "2. Menor peso",
+      "3. Mayor fragilidad",
+      "4. Menor facilidad de montaje"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "11. ¿Qué tipo de válvula se usa principalmente para cortar el paso del agua en uma red?",
+    "options": [
+      "1. Válvulas de regulación",
+      "2. Válvulas de compuerta",
+      "3. Válvulas de flotador",
+      "4. Válvulas antirretorno"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "12. ¿Cuál de las siguientes válvulas es preferible en diámetros muy grandes?",
+    "options": [
+      "1. Válvula de compuerta",
+      "2. Válvula de mariposa",
+      "3. Válvula de bola",
+      "4. Válvula de flotador"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "13. ¿Qué función tienen las válvulas reductoras de presión en una red?",
+    "options": [
+      "1. Aumentar la presión",
+      "2. Evitar sobrepresiones",
+      "3. Almacenar agua",
+      "4. Regular el caudal"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "14. ¿Cuál es la función principal de las ventosas en las tuberías?",
+    "options": [
+      "1. Impulsar el agua",
+      "2. Eliminar aire acumulado",
+      "3. Regular el caudal",
+      "4. Cortar el paso del agua"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "15. Para qué se utilizan los desagües en la red de abastecimiento?",
+    "options": [
+      "1. Vaciar tramos de tubería",
+      "2. Regular el caudal",
+      "3. Almacenamiento de agua",
+      "4. Desvío de flujo"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "16. ¿Por qué se recomienda situar la red de alcantarillado por debajo de la de abastecimiento?",
+    "options": [
+      "1. Para evitar la contaminación del agua",
+      "2. Por razones de diseño estético",
+      "3. Para facilitar el mantenimiento",
+      "4. Para mejorar la presión del agua"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "17. ¿Qué tipo de válvula se utiliza para evitar flujos reversibles en la red?",
+    "options": [
+      "1. Válvula de corte",
+      "2. Válvula de bola",
+      "3. Válvula de retención",
+      "4. Válvula de compuerta"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "18. Las válvulas de flotador se utilizan para...",
+    "options": [
+      "1. Cerrar depósitos según su nivel",
+      "2. Regular el caudal de agua",
+      "3. Evitar la acumulación de aire",
+      "4. Cortar el flujo de agua en todos los sentidos"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "19. ¿Qué tipo de unión suelen tener las tuberías de PVC para facilitar su conexión?",
+    "options": [
+      "1. Uniones roscadas",
+      "2. Uniones abocardadas",
+      "3. Uniones por soldadura",
+      "4. Uniones con bridas"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "20. ¿Cuál es la función de los anclajes en las tuberías?",
+    "options": [
+      "1. Reducir el peso total del sistema",
+      "2. Evitar el movimiento de la tubería",
+      "3. Proveer flexibilidad",
+      "4. Regular la presión interna"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "21. ¿Qué tipo de válvula se utiliza para controlar el caudal y no permitir que exceda una cantidad establecida?",
+    "options": [
+      "1. Válvula limitadora de caudal",
+      "2. Válvula de mariposa",
+      "3. Válvula de compuerta",
+      "4. Válvula de reguladora de presión"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "22. ¿Cuál es el material más económico en comparación con otros para la fabricación de tubos de menor diámetro?",
+    "options": [
+      "1. Fundición Dúctil",
+      "2. Polietileno",
+      "3. Policloruro de vinilo",
+      "4. Titanio"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "23. Las válvulas de bola se utilizan principalmente para:",
+    "options": [
+      "1. Cerrar el paso de fluidos en diámetros pequeños",
+      "2. Regular la presión de agua",
+      "3. Cerrar depósitos",
+      "4. Evitar sobrepresiones"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "24. ¿Qué tipo de tubería tiene mayor resistencia a la formación de incrustaciones?",
+    "options": [
+      "1. Fundición Dúctil",
+      "2. Polietileno",
+      "3. Policloruro de vinilo",
+      "4. Acero inoxidable"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "25. ¿En qué parte de las tuberías se colocan las ventosas?",
+    "options": [
+      "1. En la parte baja",
+      "2. En la parte media",
+      "3. En la parte alta",
+      "4. En las derivaciones"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "26. La presión nominal más común para las tuberías de PVC es:",
+    "options": ["1. 10 atm", "2. 20 atm", "3. 25 atm", "4. 30 atm"],
+    "correct_answer": "1"
+  },
+  {
+    "question": "27. ¿Qué tipo de válvulas se utilizan para facilitar el vaciado de tuberías?",
+    "options": [
+      "1. Válvulas de retención",
+      "2. Válvulas de cierre",
+      "3. Válvulas de flotador",
+      "4. Válvulas de flotación"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "28. La capacidad hidráulica se refiere a:",
+    "options": [
+      "1. La resistencia al choque de las tuberías",
+      "2. La cantidad de agua que puede fluir a través de un sistema",
+      "3. El peso total de las tuberías",
+      "4. El diámetro de las tuberías"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "29. ¿Cuál es uno de los principales problemas de las tuberías de fundición dúctil?",
+    "options": [
+      "1. Mayor coste",
+      "2. Mayor facilidad de instalación",
+      "3. Menor durabilidad",
+      "4. Mayor peso"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "30. ¿Qué técnicas se utilizan para mejorar el comportamiento del PVC?",
+    "options": [
+      "1. Adición de metales pesados",
+      "2. Orientación de moléculas",
+      "3. Recubrimiento de PVC",
+      "4. Inyección de aire"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "31. ¿Qué material es más utilizado en la construcción de válvulas de corte?",
+    "options": [
+      "1. Plástico",
+      "2. Aluminio",
+      "3. Fundición",
+      "4. Acero inoxidable"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "32. ¿Qué sucede cuando se freeza un tubo de polietileno?",
+    "options": [
+      "1. Se rompe fácilmente",
+      "2. Se ablanda",
+      "3. Se expande",
+      "4. No se ve afectado"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "33. ¿Con qué frecuencia se deben colocar válvulas de corte en una red de abastecimiento?",
+    "options": [
+      "1. Cada 200 m",
+      "2. Cada 300-500 m",
+      "3. Cada 100 m",
+      "4. En cada derivación"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "34. Las válvulas de mariposa son más costosas, pero preferibles en...",
+    "options": [
+      "1. Diámetros pequeños",
+      "2. Diámetros medios",
+      "3. Diámetros grandes",
+      "4. Todas las situaciones"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "35. ¿Qué tipo de tubería es menos flexible que el PE?",
+    "options": ["1. Fundición", "2. Policarbonato", "3. PVC", "4. Polietileno"],
+    "correct_answer": "3"
+  },
+  {
+    "question": "36. ¿Qué elemento de la red de distribución se utiliza en las conexiones y uniones entre tuberías?",
+    "options": ["1. Bridas", "2. Anclajes", "3. Válvulas", "4. Desagües"],
+    "correct_answer": "1"
+  },
+  {
+    "question": "37. ¿Qué tipo de válvula se recomienda para evitar la sobrepresión en la red?",
+    "options": [
+      "1. Válvula de flotador",
+      "2. Válvula antirretorno",
+      "3. Válvula reductora de presión",
+      "4. Válvula de compuerta"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "38. ¿Dónde se colocan generalmente las válvulas en una red de distribución?",
+    "options": [
+      "1. Solo en el comienzo",
+      "2. En las intersecciones y derivaciones",
+      "3. Sólo al final del tramo",
+      "4. No se colocan válvulas"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "39. ¿Cómo se denomina a la pieza que se utiliza para la evacuación de aire en las tuberías?",
+    "options": [
+      "1. Válvula de compuerta",
+      "2. Ventosa",
+      "3. Desagüe",
+      "4. Conector"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "40. Para uniones de PVC de pequeño diámetro, se utiliza:",
+    "options": [
+      "1. Pegado con manguitos abocardados",
+      "2. Bridas",
+      "3. Soldadura",
+      "4. Engrapado"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "41. ¿Qué tipo de tuberías son más comúnmente afectadas por la radiación ultravioleta?",
+    "options": [
+      "1. Tuberías de polietileno",
+      "2. Tuberías de PVC",
+      "3. Tuberías de acero",
+      "4. Tuberías de fundición"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "42. ¿Cuál es la principal ventaja de las tuberías de polietileno en comparación con las de PVC?",
+    "options": [
+      "1. Mayor durabilidad",
+      "2. Menor peso",
+      "3. Menor coste",
+      "4. Mayor capacidad hidráulica"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "43. ¿Qué característica del material PVC mejora su resistencia a la fractura?",
+    "options": [
+      "1. Mayor grosor",
+      "2. Orientación de la molécula",
+      "3. Uso de aceites aditivos",
+      "4. Eliminación de aditivos"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "44. ¿Qué tipo de conexión se utiliza en las válvulas de mariposa para su apertura y cierre?",
+    "options": ["1. Mecánica", "2. Manual", "3. Automática", "4. Neumática"],
+    "correct_answer": "1"
+  },
+  {
+    "question": "45. ¿Cuál de las siguientes afirmaciones es cierta sobre las tuberías de fundición dúctil?",
+    "options": [
+      "1. Son muy ligeras",
+      "2. Son frágiles",
+      "3. No son muy resistentes a altas temperaturas",
+      "4. Soportan altas presiones de trabajo"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "46. ¿Qué se busca evitar colocando ventosas en las tuberías?",
+    "options": [
+      "1. Acumulaciones de aire",
+      "2. Pérdidas de presión",
+      "3. Filtraciones de materiales extraños",
+      "4. Corrosión"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "47. ¿Qué tipo de desagüe se utiliza en la red de abastecimiento?",
+    "options": [
+      "1. Desagües tipo T",
+      "2. Desagües de fondo plano",
+      "3. Desagües abiertos",
+      "4. Desagües de compuerta"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "48. ¿Qué tipo de válvula se utiliza para regular el caudal y evitar sobrecargas?",
+    "options": [
+      "1. Válvula de compuerta",
+      "2. Válvula de flotador",
+      "3. Válvula limitadora de caudal",
+      "4. Válvula de mariposa"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "49. ¿Qué modalidad de fabricación permite obtener tuberías de gran diámetro?",
+    "options": ["1. Extrusión", "2. Moldeo", "3. Centrifugado", "4. Inyección"],
+    "correct_answer": "3"
+  },
+  {
+    "question": "50. ¿Qué tipo de válvula se usa para evitar el flujo en sentido opuesto en una tubería?",
+    "options": [
+      "1. Válvula de corte",
+      "2. Válvula de presión",
+      "3. Válvula de retención",
+      "4. Válvula de flotación"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "51. ¿Cuál de las siguientes válvulas se utiliza para regular la presión en la red?",
+    "options": [
+      "1. Válvula de mariposa",
+      "2. Válvula de flotador",
+      "3. Válvula reductora de presión",
+      "4. Válvula de compuerta"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "52. ¿Cuál es el objetivo principal de los anclajes en la red de tuberías?",
+    "options": [
+      "1. Evitar el movimiento de las tuberías",
+      "2. Regular la tensión en los tubos",
+      "3. Unir distintos elementos de tuberías",
+      "4. Regular el flujo del agua"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "53. Las válvulas especiales se clasifican en:",
+    "options": [
+      "1. Válvulas de corte y compuerta",
+      "2. Válvulas de regulación y retención",
+      "3. Válvulas mecánicas y eléctricas",
+      "4. Válvulas de presión y tamaño"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "54. ¿Qué tipo de válvula se emplea comúnmente para la regulación del nivel en depósitos?",
+    "options": [
+      "1. Válvula de flotador",
+      "2. Válvula de mariposa",
+      "3. Válvula de presión",
+      "4. Válvula de corte"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "55. La principal función de las válvulas de purga en un sistema de tuberías es...",
+    "options": [
+      "1. Regular la temperatura del agua",
+      "2. Evitar la acumulación de aire",
+      "3. Exclusivamente para cerrar el paso del agua",
+      "4. Evitar el flujo de retorno"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "56. ¿Cuál es el impacto de las radiaciones solares en las tuberías de PVC?",
+    "options": [
+      "1. Además de tornarlas más pesadas, no las afecta.",
+      "2. Las hace más duraderas.",
+      "3. Las debilita y acorta su vida útil.",
+      "4. Las mejora mecánicamente."
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "57. ¿Qué acción se recomienda realizar al cambiar una válvula en la red?",
+    "options": [
+      "1. Dejar la válvula antigua en su lugar",
+      "2. Desmontar la red completa",
+      "3. Utilizar una válvula de calidad igual o superior",
+      "4. Instalar válvulas de diferente tamaño"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "58. Las válvulas limitadoras permanecen abiertas cuando el caudal es:",
+    "options": [
+      "1. Superior al ajustado",
+      "2. Inferior al ajustado",
+      "3. Idéntico al ajustado",
+      "4. Aumenta significativamente"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "59. ¿Cuál es el costo comparativo de las tuberías de PVC frente a otros materiales como PE y FD?",
+    "options": [
+      "1. Generalmente más alto",
+      "2. Igual que otros materiales",
+      "3. Más económico para diámetros menores",
+      "4. Más económico para todos"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "60. ¿Qué tipo de válvula es preferida para la regulación precisa del caudal en instalaciones industriales?",
+    "options": [
+      "1. Válvula de flotador",
+      "2. Válvula de mariposa",
+      "3. Válvula de compuerta",
+      "4. Válvula reguladora de caudal"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "61. ¿Las tuberías de PE son buenas para ambientes húmedos porque...?",
+    "options": [
+      "1. No se oxidan",
+      "2. Son flexibles",
+      "3. Se ensamblan fácilmente",
+      "4. Tienen menor peso"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "62. En caso de utilizar la tubería de PVC en un ambiente exterior, se debe considerar:",
+    "options": [
+      "1. Su resistencia a sobrepresiones",
+      "2. Su debilitamiento por radiación UV",
+      "3. Su flexibilidad ante cambios de temperatura",
+      "4. La posibilidad de depósitos internos"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "63. Las válvulas de corte se instalan cada cuántos metros en ramales de gran longitud?",
+    "options": [
+      "1. 300-500 metros",
+      "2. 100-200 metros",
+      "3. 50-100 metros",
+      "4. Más de 500 metros"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "64. El diseño de una red de abastecimiento debe considerar también:",
+    "options": [
+      "1. Estética visual del sistema",
+      "2. Posibilidades de filtración de agua",
+      "3. Facilidad de acceso y mantenimiento",
+      "4. Costo de materiales solo"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "65. ¿Cuál es el primer paso al realizar el mantenimiento de las tuberías?",
+    "options": [
+      "1. Identificación de la ubicación",
+      "2. Aislamiento de la sección a reparar",
+      "3. Verificación del acceso",
+      "4. Reemplazo inmediato de válvulas"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "66. ¿Cuál es la principal limitación de las válvulas de flotador?",
+    "options": [
+      "1. No son adecuadas para sistemas de alta presión",
+      "2. No pueden controlar el caudal",
+      "3. Son costosas",
+      "4. Requieren constante mantenimiento"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "67. En el sistema de red de abastecimiento, las válvulas de antirretorno son importantes porque...",
+    "options": [
+      "1. Evitan que el agua fluya en sentido inverso",
+      "2. Mejoran la presión dentro de las tuberías",
+      "3. Regulan el caudal de aire",
+      "4. Son utilizadas únicamente en el control de caudales"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "68. Para evitar que las tuberías se muevan por cambios de presión, se utilizan:",
+    "options": [
+      "1. Anclajes",
+      "2. Válvulas de flotador",
+      "3. Bridas",
+      "4. Conectores"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "69. ¿Qué condiciones deben cumplirse para la instalación de tuberías de PE?",
+    "options": [
+      "1. Siempre deben estar bajo tierra",
+      "2. No deben estar expuestas a variaciones térmicas extremas",
+      "3. Su superficie debe estar siempre expuesta al aire",
+      "4. Debido a la presión, deben ser de un diámetro mayor"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "70. ¿Qué parte de la tubería se utiliza para evitar pérdidas de aire en el sistema?",
+    "options": [
+      "1. Las uniones",
+      "2. Las válvulas de flotador",
+      "3. Las ventosas",
+      "4. Los desagües"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "71. ¿La forma en que se recubren las tuberías de fundición dúctil es de importancia para...?",
+    "options": [
+      "1. Estética",
+      "2. Durabilidad y resistencia a la corrosión",
+      "3. Economía del proyecto",
+      "4. Valor de propiedad"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "72. Las válvulas de reguladores de presión son específicas para controlar...",
+    "options": [
+      "1. El flujo de agua",
+      "2. Las fugas",
+      "3. Las variantes de temperatura",
+      "4. Las presiones superiores a las normales"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "73. Las uniones rígidas suelen emplearse en el sistema de tuberías para...",
+    "options": [
+      "1. Conectar válvulas redundantes",
+      "2. Incrementar la facilidad de instalación",
+      "3. Proporcionar conservaciones adicionales",
+      "4. Aumentar la resistencia al empuje"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "74. Para prevenir la rotura de una tubería por alta presión, se debe utilizar...",
+    "options": [
+      "1. Válvula reguladora de presión",
+      "2. Desagüe adecuado",
+      "3. Anclaje sólido",
+      "4. Válvula de flotador"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "75. ¿Qué puede resultar de la acumulación de aire dentro de una tubería?",
+    "options": [
+      "1. Aumento de la presión de agua",
+      "2. Pérdida de flujo y presión irregular",
+      "3. Aumento de la resistencia al flujo",
+      "4. Cierre automático de la válvula"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "76. ¿Cuál de las siguientes es una característica esencial de las válvulas de flotador?",
+    "options": [
+      "1. Fuerzan un cierre perfecto",
+      "2. Se ajustan manualmente",
+      "3. Abren y cierran automáticamente",
+      "4. Adaptan la presión hidráulica"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "77. ¿Cuál es el objetivo principal de la instalación de sistemas de desagüe?",
+    "options": [
+      "1. Facilitar el consumo de agua",
+      "2. Evitar la acumulación de barro",
+      "3. Permitir vaciado y mantenimiento",
+      "4. Regular el flujo natural"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "78. ¿Qué tipo de válvula asegura el flujo de agua solo en un sentido?",
+    "options": [
+      "1. Válvula de compuerta",
+      "2. Válvula de mariposa",
+      "3. Válvula de retención",
+      "4. Válvula de flotador"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "79. Las válvulas también son responsables de...",
+    "options": [
+      "1. Controlar el ciclo del agua en el sistema",
+      "2. Profundizar en el análisis de impacto",
+      "3. Regular la cantidad de agua que fluye",
+      "4. Aumentar el riesgo de fugas"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "80. La principal ventaja de las válvulas antirretorno es:",
+    "options": [
+      "1. Aseguran el llenado rápido",
+      "2. Previenen el flujo en sentido contrario",
+      "3. Regulan el caudal",
+      "4. Son de bajo costo"
+    ],
+    "correct_answer": "2"
+  }
+]
