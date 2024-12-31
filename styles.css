@@ -90,6 +90,33 @@ html {
   text-align: center;
 }
 
+/* ✅ Pregunta Correcta */
+.correct {
+  background-color: #d4edda; /* Verde claro */
+  border: 1px solid #28a745; /* Borde verde */
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* ❌ Pregunta Incorrecta */
+.incorrect {
+  background-color: #f8d7da; /* Rojo claro */
+  border: 2px solid #dc3545; /* Borde rojo */
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* ⚪ Pregunta No Respondida */
+.unanswered {
+  background-color: #fff3cd; /* Amarillo claro */
+  border: 2px solid #ffc107; /* Borde amarillo */
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
 #tema2 {
   background-color: rgb(33, 111, 156);
 }

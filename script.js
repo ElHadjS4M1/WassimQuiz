@@ -2157,6 +2157,7 @@ function loadQuiz(quizData) {
   quizData.forEach((item, index) => {
     const questionElement = document.createElement("div");
     questionElement.classList.add("question");
+    questionElement.id = `question-${index}`;
 
     // Crear la pregunta
     const questionText = document.createElement("p");
@@ -2184,18 +2185,37 @@ function loadQuiz(quizData) {
 // Verificar las respuestas
 function checkAnswers() {
   let score = 0;
-  console.log(temaLoaded);
-  temaLoaded.forEach((item, index) => {
-    const selectedAnswer = document.querySelector(
+
+  temaLoaded.forEach((question, index) => {
+    const selectedOption = document.querySelector(
       `input[name="question${index}"]:checked`
     );
-    if (selectedAnswer && selectedAnswer.value === item.correct_answer) {
-      score++;
+    const questionContainer = document.getElementById(`question-${index}`);
+
+    // Limpiar clases anteriores
+    questionContainer.classList.remove(
+      "question",
+      "correct",
+      "incorrect",
+      "unanswered"
+    );
+
+    if (selectedOption) {
+      if (selectedOption.value === question.correct_answer) {
+        // ✅ Respuesta correcta
+        questionContainer.classList.add("correct");
+        score++;
+      } else {
+        // ❌ Respuesta incorrecta
+        questionContainer.classList.add("incorrect");
+      }
+    } else {
+      // ⚪ Pregunta no respondida
+      questionContainer.classList.add("unanswered");
     }
   });
 
-  const result = document.getElementById("result");
-  window.alert(`Has acertado ${score} de ${temaLoaded.length} preguntas.`);
+  alert(`✅ Has obtenido una puntuación de ${score} / 10`);
 }
 
 document.getElementById("tema2").addEventListener("click", () => {
